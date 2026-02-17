@@ -16,7 +16,7 @@ LibreFormer is a Python library that provides a convenient wrapper around LibreO
 This project is managed by `rye`.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/devcomfort/libreformer.git
 cd libreformer
 rye sync
 ```
